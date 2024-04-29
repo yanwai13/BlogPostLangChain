@@ -5,7 +5,7 @@ from langchain.memory import ConversationBufferMemory
 import os
 
 #input your hf token here
-os.environ['HUGGINGFACEHUB_API_TOKEN'] = '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'
+os.environ['HUGGINGFACEHUB_API_TOKEN'] = ''
 
 st.title("Blog Generator with LangChain")
 
